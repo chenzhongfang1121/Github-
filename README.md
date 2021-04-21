@@ -1,5 +1,8 @@
 # Github-
 Github界面英文翻译，持续补充中。。。
+
+转载自：https://blog.csdn.net/weixin_33884611/article/details/92612682
+
 175837_XyRp_2885163.png
 sign in 登录
 sign up 注册
